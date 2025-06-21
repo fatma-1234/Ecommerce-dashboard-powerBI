@@ -20,9 +20,6 @@ This Power BI dashboard visualizes key metrics from e-commerce sales data. It he
 - `sales_data.xlsx` – Dataset used
 - `dashboard_screenshot.png` – Preview of the dashboard
 
-## 📷 Dashboard Preview
-
-
 ## 👩‍💻 Author
 Sara Fatma
 
