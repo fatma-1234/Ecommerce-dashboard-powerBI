@@ -17,7 +17,7 @@ This Power BI dashboard visualizes key metrics from e-commerce sales data. It he
 
 ## 📁 Files Included
 - 'Power BI Representation.pbix' – Main dashboard file
-- `sales_data.xlsx` – Dataset used
+- `Details.csv`,  – Dataset used
 - `dashboard_screenshot.png` – Preview of the dashboard
 
 ## 👩‍💻 Author
