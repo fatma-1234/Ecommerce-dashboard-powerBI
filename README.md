@@ -1,6 +1,6 @@
-# powerBI-Sales Analysis Dashboard
+# Power BI-Sales Analysis Dashboard
 Power BI dashboard for e-commerce data analysis
-# 📊 powerBI-Sales Analysis Dashboard
+# 📊 Power BI-Sales Analysis Dashboard
 
 ## 📌 Project Overview
 This Power BI dashboard visualizes key metrics from e-commerce sales data. It helps understand:
